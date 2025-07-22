@@ -1,4 +1,4 @@
 //include/dashboard.h
-#include <gtk/gtk.h>
+#include "common.h"
 
 int showMainDashboard(void);
